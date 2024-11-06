@@ -1,0 +1,2 @@
+torch==2.0.1           # PyTorch, used for building and training the model
+numpy==1.23.5          # NumPy, for data manipulation
