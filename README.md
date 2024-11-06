@@ -34,8 +34,9 @@ Getting Started
 
     Clone the repository:
 
-git clone https://github.com/your-username/speakspear-ai-chatbot.git
-cd speakspear-ai-chatbot
+git clone https://github.com/rishu023/Speakspear-AI-Chatbot.git
+cd Speakspear-AI-Chatbot
+
 
 Install dependencies:
 
